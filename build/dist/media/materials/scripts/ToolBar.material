@@ -1,0 +1,15 @@
+material Toolbar/Button_tree9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.8 0.8 0.8
+
+			texture_unit
+			{
+				texture tree9_thumb.png
+			}
+		}
+	}
+}

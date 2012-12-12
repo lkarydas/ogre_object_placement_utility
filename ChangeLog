@@ -1,0 +1,11 @@
+2012-12-12 Laz <lkarydas@gmail.com>
+	* src/SceneCreator.cpp Fixed bug that would place an object when clicking to change the model.
+
+2012-11-15 Laz <lkarydas@gmail.com>
+	* src/SceneCreator.cpp Main functionality. Added buttons for selecting the model to place.
+
+2012-11-12 Laz <lkarydas@gmail.com>
+	* src/WaterSurface.cpp Class for the water functionality.
+
+2012-11-10 Laz <lkarydas@gmail.com>
+	* src/TerrainManager.cpp Created a class for all terrain functions.
