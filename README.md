@@ -13,9 +13,9 @@ Coming soon...
   make
 </pre>
 
-<img src="http://i.imgur.com/nA4jbl.jpg" alt="Screenshot1" height="175" width="280">
-<img src="http://i.imgur.com/EDHOsl.jpg" alt="Screenshot2" height="175" width="280">
-<img src="http://i.imgur.com/eC9hZl.jpg" alt="Screenshot3" height="175" width="280">
+<img src="http://i.imgur.com/nA4jbl.jpg" alt="Screenshot1" border="2" height="175" width="280">
+<img src="http://i.imgur.com/EDHOsl.jpg" alt="Screenshot2" border="2" height="175" width="280">
+<img src="http://i.imgur.com/eC9hZl.jpg" alt="Screenshot3" border="2" height="175" width="280">
 
 # Controls
 
