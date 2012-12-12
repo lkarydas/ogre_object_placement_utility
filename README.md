@@ -11,7 +11,7 @@ Coming soon...
 <pre>
   make do_cmake
   make
-<pre>
+</pre>
 
 # Controls
 
