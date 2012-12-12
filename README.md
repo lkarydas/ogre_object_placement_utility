@@ -29,6 +29,6 @@ Camera controls:
 AWSD and mouse, press SHIFT to move 10x the normal speed
 
 Scene Creation:
-Press space to enter edit mode.
+Press space to toggle edit mode.
 Select a tree model from the buttons on the left.
-Place selected mode on the terrain using the mouse.
+Place selected model on the terrain using the mouse.
