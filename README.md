@@ -13,6 +13,10 @@ Coming soon...
   make
 </pre>
 
+![Screenshot1][1]
+![Screenshot2][2]
+![Screenshot3][3]
+
 # Controls
 
 Camera controls:
@@ -22,3 +26,9 @@ Scene Creation:
 Press space to enter edit mode.
 Select a tree model from the buttons on the left.
 Place selected mode on the terrain using the mouse.
+
+
+
+[1]: http://i.imgur.com/nA4jbl.jpg "Screenshot 1"
+[2]: http://i.imgur.com/EDHOsl.jpg "Screenshot 2"
+[3]: http://i.imgur.com/eC9hZl.jpg "Screenshot 3"
