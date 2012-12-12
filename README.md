@@ -7,9 +7,9 @@ A simple scene creator for Ogre3D that allows you to place objects on a terrain 
 
 Coming soon...
 
-<img src="http://i.imgur.com/nA4jbl.jpg" alt="Screenshot1" border="6" height="175" width="280">
-<img src="http://i.imgur.com/EDHOsl.jpg" alt="Screenshot2" border="6" height="175" width="280">
-<img src="http://i.imgur.com/eC9hZl.jpg" alt="Screenshot3" border="6" height="175" width="280">
+<img src="http://i.imgur.com/hQ5vl.jpg" alt="Screenshot1" border="6" height="175" width="280">
+<img src="http://i.imgur.com/LnVV0.jpg" alt="Screenshot2" border="6" height="175" width="280">
+<img src="http://i.imgur.com/BuQZ1.jpg" alt="Screenshot3" border="6" height="175" width="280">
 
 # How To Compile
 <pre>
