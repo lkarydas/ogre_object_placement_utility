@@ -8,9 +8,10 @@ A simple scene creator for Ogre3D that allows you to place objects on a terrain 
 Coming soon...
 
 # How To Compile
-
+<pre>
   make do_cmake
   make
+<pre>
 
 # Controls
 
