@@ -7,15 +7,17 @@ A simple scene creator for Ogre3D that allows you to place objects on a terrain 
 
 Coming soon...
 
+<img src="http://i.imgur.com/nA4jbl.jpg" alt="Screenshot1" border="6" height="175" width="280">
+<img src="http://i.imgur.com/EDHOsl.jpg" alt="Screenshot2" border="6" height="175" width="280">
+<img src="http://i.imgur.com/eC9hZl.jpg" alt="Screenshot3" border="6" height="175" width="280">
+
 # How To Compile
 <pre>
   make do_cmake
   make
 </pre>
 
-<img src="http://i.imgur.com/nA4jbl.jpg" alt="Screenshot1" border="2" height="175" width="280">
-<img src="http://i.imgur.com/EDHOsl.jpg" alt="Screenshot2" border="2" height="175" width="280">
-<img src="http://i.imgur.com/eC9hZl.jpg" alt="Screenshot3" border="2" height="175" width="280">
+
 
 # Controls
 
@@ -26,9 +28,3 @@ Scene Creation:
 Press space to enter edit mode.
 Select a tree model from the buttons on the left.
 Place selected mode on the terrain using the mouse.
-
-
-
-[1]: http://i.imgur.com/nA4jbl.jpg "Screenshot 1"
-[2]: http://i.imgur.com/EDHOsl.jpg "Screenshot 2"
-[3]: http://i.imgur.com/eC9hZl.jpg "Screenshot 3"
