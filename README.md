@@ -1,7 +1,7 @@
 Ogre Object Placement Utility
 ==================
 
-A simple utility for Ogre3D that allows you to place objects on a terrain using the mouse.
+An Ogre3D utility that allows you to place objects on a terrain using the mouse.
 
 # Introduction
 
